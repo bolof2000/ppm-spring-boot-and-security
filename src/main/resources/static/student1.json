@@ -1,0 +1,14 @@
+{
+  "name": "Dammy",
+  "email": "hershanie@gmail.com",
+  "subjects": [
+    {
+      "subject_name": "java",
+      "marks_obtained": 70.0
+    },
+    {
+      "subject_name": "Mondb",
+      "marks_obtained": 70.0
+    }
+  ]
+}

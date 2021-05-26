@@ -3,3 +3,5 @@ common git commands
 git branch- check branches created
 git branch branchName
 git checkout branchName - move to the branch
+git checkout master - move to master
+git

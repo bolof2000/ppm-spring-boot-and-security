@@ -1,0 +1,18 @@
+
+API Request:
+
+Endpoint
+
+Method
+
+Headers
+
+Data
+
+RestAssured Pattern:
+
+Given :Specificies prerequisites - headers, authenitcations
+
+When :Actions - Method
+
+Then- Assertions
